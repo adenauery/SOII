@@ -1,2 +1,2 @@
 # SOII
-Tópicos da Disciplina de Sistemas Operacionais
+Este repositório registra Tópicos da Disciplina de **Sistemas Operacionais** 
