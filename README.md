@@ -11,4 +11,5 @@ Cada projeto deverá criar um arquivo README.md com as seguintes informações:
   - Tutorial1
   - Tutorial2
   - Tutorial3
-- Procedimentos Realizados: Xx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx 
+- Resumo das Funcionalidades: 
+- Xx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx 
