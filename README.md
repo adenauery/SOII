@@ -1,7 +1,5 @@
-# SOII
-Este repositório registra Tópicos da Disciplina de **Sistemas Operacionais** 
-
-Cada projeto deverá criar um arquivo README.md com as seguintes informações:
+# Monitoramento na IoT
+## Trabalho da Disciplina de Sistemas Operacionais II
 
 - Embarcado utilizado: **ESP32** (ou outro embarcado)
 - Linguagem de Programação: **MicroPython**
