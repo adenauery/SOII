@@ -1,5 +1,5 @@
 # Monitoramento na IoT
-## Trabalho da Disciplina de Sistemas Operacionais II
+## Atividade da Disciplina de Sistemas Operacionais II
 
 - Embarcado utilizado: **ESP32** (ou outro embarcado)
 - Linguagem de Programação: **MicroPython**
@@ -10,4 +10,13 @@
   - Tutorial2
   - Tutorial3
 - Resumo das Funcionalidades: 
+  - Funcionalidades no embarcado
+    - Xx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx 
+- Funcionalidades na Plataforma de Nuvem na IoT
   - Xx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx Xxxxxx Xxxxxx Xxxxx Xxx Xxxxxxxx Xxxx Xxxxxxxxxxx 
+  
+  Observações:
+  - No **Resumo das Funcionalidades** podem ser utilizadas imagens.
+  - Podem ser incluídos **links para sites externos**
+  - Quanto mais detalhes forem apresentados melhor
+  - Observem que este texto é escrito utilizando o arquivo README.md
